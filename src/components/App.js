@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Challenge1 from './challenge1';
+import Challenge2 from './challenge2';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       </header>
       <div className="app__content">
         <Challenge1/>
+        <Challenge2/>
       </div>
     </div>
   );
