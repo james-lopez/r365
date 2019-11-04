@@ -1,0 +1,8 @@
+{
+    "short_name": "R365 Calculator",
+    "name": "Restaurant365 Calculator Challenge",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#D6051D",
+    "background_color": "#FFFFFF"
+  }
