@@ -6,6 +6,7 @@ import Challenge3 from './challenge3';
 import Challenge4 from './challenge4';
 import Challenge5 from './challenge5';
 import Challenge6 from './challenge6';
+import Challenge7 from './challenge7';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Challenge4/>
         <Challenge5/>
         <Challenge6/>
+        <Challenge7/>
       </div>
     </div>
   );
